@@ -1,3 +1,2 @@
-# Blender-Rendering-With-Colab
+# Blender-Rendering-With-Colab-Gradio-UI
 
-https://colab.research.google.com/github/Exw27/Blender-Rendering-With-Colab/blob/main/BlenderRender.ipynb
